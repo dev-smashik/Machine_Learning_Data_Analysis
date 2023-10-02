@@ -1,0 +1,4 @@
+1. Handle the Null value.
+2. Encode using the replace method.
+3. Use three types of encoding techniques for all the columns which contains categorical data.
+4. You have to use loop while encoding.
